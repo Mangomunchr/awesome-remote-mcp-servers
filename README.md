@@ -138,6 +138,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [Cloudflare Bindings](https://developers.cloudflare.com/agents/model-context-protocol/) `https://bindings.mcp.cloudflare.com/mcp`
   🔐 - Build on Workers KV, R2, D1, and other Cloudflare bindings.
+- [FARPY](https://farpy.com) `https://api.farpy.com/mcp`
+  [![FARPY MCP connector](https://glama.ai/mcp/connectors/com.farpy.api/farpy/badges/score.svg)](https://glama.ai/mcp/connectors/com.farpy.api/farpy)
+  🔐 - Run verified Blender GPU workloads, track jobs, retrieve artifacts, and inspect execution receipts.
 - [Floot](https://floot.com) `https://mcp.floot.com/mcp`
   [![Floot MCP connector](https://glama.ai/mcp/connectors/com.floot/floot/badges/score.svg)](https://glama.ai/mcp/connectors/com.floot/floot)
   🔐 - Write React pages and serverless endpoints, provision Postgres and auth, run SQL, read logs, and publish to a live URL.
@@ -150,7 +153,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vercel](https://vercel.com) `https://mcp.vercel.com`
   [![Vercel MCP connector](https://glama.ai/mcp/connectors/com.vercel/vercel-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vercel/vercel-mcp)
   🔐 - Manage Vercel projects, deployments, and logs.
-
+  
 ### 💬 <a name="communication"></a>Communication
 
 - [Resend](https://resend.com) `https://mcp.resend.com/mcp`
